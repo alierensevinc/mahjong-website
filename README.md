@@ -1,4 +1,4 @@
-# Meijin Mahjong - The Classic Mahjong Experience
+# Mahjong Solitaire : Tile Match - The Classic Mahjong Experience
 
 Mahjong Native redesigns the classic tile-matching puzzle for modern mobile devices. Whether you're taking a quick break or settling in for a long strategy session, Mahjong Native's smooth animations and relaxing atmosphere will draw you in. From special layouts like the Butterfly to classic arrangements, every level offers a delightful challenge for both beginners and masters.
 
